@@ -4,9 +4,9 @@ An open source LCG
 ## Rules
 
 ### Your Deck
-* A deck must have between 50 and 70 cards
-* You must have 1 fortress card
-* You can only have a max of 3 copies of a card in your deck
+* A deck must have between 50 and 70 cards.
+* You must have 1 fortress card.
+* You can only have a max of 3 copies of a card in your deck.
 
 ### Fortresses
 * Your fortress is your main card, when it's destroyed you loose the duel.
