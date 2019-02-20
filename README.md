@@ -14,7 +14,7 @@ An open source LCG
 * Main Phase - This is where you summon and place all your cards.
 * Battle Phase - This is where you attack with your creatures.
 * Main Phase 2 - This is the same as your first main phase.
-* End Phade - This is the end of your turn and is used in card effects. When a player "ends" their turn this is when this phase starts, you can still trigger defense and counter cards during this time. (End phase ends when both players agree it ends as in they have no cards to play)
+* End Phase - This is the end of your turn and is used in card effects. When a player "ends" their turn this is when this phase starts, you can still trigger defense and counter cards during this time. (End phase ends when both players agree it ends as in they have no cards to play)
  
 ### Fortresses
 * Your fortress is your main card, when it's destroyed you loose the duel.
