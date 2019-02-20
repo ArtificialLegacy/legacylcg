@@ -22,3 +22,18 @@ An open source LCG
 * Each creature can only attack once a battle phase
 * When you summon a creature you can choose to summon it under your fortress or one of your outposts.
 * The bonuses of the fortress / outpost the creature is summoned under is only granted if the attributes of the 2 cards are the same.
+* The top-most text is the creatures name.
+* The text right below the name is the attribute.
+* The text inside the box is the effect.
+* The text below the box is the card's strength.
+
+### Rune
+* You can play a max of 5 runes a turn.
+### Instant
+* Can be played in a rune zone anytime during your main phase.
+### Defense
+* Can be set during your main phase and cannot be activated until your oppenents next draw phase.
+### Continuous
+* Can be played in a rune zone anytime during your main phase and stays there until it is destroyed.
+### Counter
+* Can be played at anytime to chain a card effect.
