@@ -48,7 +48,7 @@ An open source LCG
 * Can be played at anytime to chain a card effect.
 
 ### Battles
-* When 2 creatures battle, the creature with the highest strength wins, the difference in the strength is dealt as damage to the loosing player's fortress.
-* When a creature looses a battle it is sent to the graveyard.
+* When 2 creatures battle, the creature with the highest strength wins, the difference in the strength is dealt as damage to the losing player's fortress.
+* When a creature loses a battle it is sent to the graveyard.
 * If the 2 creatures have equal strength they are both destroyed and both players take 1 damage to their fortresses.
 * If your opponent has no creatures on the field you can direct attack their fortress.
