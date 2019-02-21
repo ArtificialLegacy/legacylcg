@@ -35,6 +35,7 @@ An open source LCG
 * The text inside the box is the effect.
 * The text below the box is the card's strength.
 * If a creature has a strength above 15 it requires a sacrifice of another creature.
+* Creatures with a strength of 25 require 2 sacrifices instead of just 1.
 
 ### Rune
 * You can play a max of 5 runes a turn.
